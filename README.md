@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 </a>
 
 <br>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/guilds/{guildId}/draw"/>
+<a href="https://www.gitanimals.org/">
+  <img
+    src="https://render.gitanimals.org/guilds/673540103172091050/draw"
+    width="600"
+    height="300"
+    alt="gitanimals"
+  />
 </a>
