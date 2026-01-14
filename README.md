@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/farms/com8599"/>
 </a>
 
-
+<br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/guilds/{guildId}/draw"/>
 </a>
