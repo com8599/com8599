@@ -35,12 +35,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/com8599"/>
 </a>
-
+</div>
 <br>
+<div align="center">
 <a href="https://www.gitanimals.org/">
   <img
     src="https://render.gitanimals.org/guilds/673540103172091050/draw"
@@ -49,3 +50,5 @@ Here are some ideas to get you started:
     alt="gitanimals"
   />
 </a>
+
+</div>
